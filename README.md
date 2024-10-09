@@ -1,2 +1,2 @@
 # Amazon-Clone
-This is my minor front end project.
+This is my minor desktop based front end project.
